@@ -2,6 +2,7 @@
 
 ## Client folder structure
 
+```
 Client Name
 ├── Account Management
 │   └── Reporting
@@ -124,20 +125,20 @@ Client Name
 │   └── Email
 ├── Social
 └── Website
+```
 
 ## Brand asset file naming schemes
 
 ### Logo
-Vector Example: `EMRL_Vertical-Logo_CMYK-FullColor.ai`
-Breakdown: `CLIENTCODE_Variation_ColorSpace-ColorVariation.format`
-
-Raster Example: `EMRL_Vertical-Logo_CMYK-FullColor_1920x1080.png`
-Breakdown: `CLIENTCODE_Variation_ColorSpace-ColorVariation.format`
+- Vector Example: `EMRL_Vertical-Logo_CMYK-FullColor.ai`
+- Breakdown: `CLIENTCODE_Variation_ColorSpace-ColorVariation.format`
+- Raster Example: `EMRL_Vertical-Logo_CMYK-FullColor_1920x1080.png`
+- Breakdown: `CLIENTCODE_Variation_ColorSpace-ColorVariation.format`
 
 ### Design file
-Working file: `200904_Temple-Case-Study_11x17.indd`
-Production file: `200904_Temple-Case-Study_11x17_PROD.indd`
-Breakdown: `YYMMDD_Design-Name-Size_PROD.format`
+- Working file: `200904_Temple-Case-Study_11x17.indd`
+- Production file: `200904_Temple-Case-Study_11x17_PROD.indd`
+- Breakdown: `YYMMDD_Design-Name-Size_PROD.format`
 
 ## General file naming notes
 
