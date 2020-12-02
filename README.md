@@ -11,7 +11,7 @@ Client Name
 │   ├── Outdoor
 │   └── Print
 ├── Archived
-├── Brand
+├── Branding
 │   ├── Archived
 │   ├── Collateral
 │   ├── Color Palette
