@@ -117,12 +117,13 @@ Client Name
 │   │               └── Pantone
 │   ├── Packaging
 │   ├── Products
-│   ├── Research
 │   ├── Signage
 │   ├── Templates
 │   └── Vehicles
 ├── Marketing
+│   ├── Collateral
 │   └── Email
+├── Research
 ├── Social
 └── Website
 ```
