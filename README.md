@@ -26,95 +26,47 @@ Client Name
 │   │   ├── Brandmark
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
-│   │   │   │   │   └── Images
 │   │   │   │   ├── Inverse
-│   │   │   │   │   └── Images
 │   │   │   │   ├── One color
-│   │   │   │   │   └── Images
 │   │   │   │   └── White
-│   │   │   │       └── Images
 │   │   │   └── Print
 │   │   │       ├── Full Color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── Inverse
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── One color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       └── White
-│   │   │           ├── CMYK
-│   │   │           └── Pantone
 │   │   ├── Horizontal
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
-│   │   │   │   │   └── Images
 │   │   │   │   ├── Inverse
-│   │   │   │   │   └── Images
 │   │   │   │   ├── One color
-│   │   │   │   │   └── Images
 │   │   │   │   └── White
-│   │   │   │       └── Images
 │   │   │   └── Print
 │   │   │       ├── Full Color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── Inverse
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── One color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       └── White
-│   │   │           ├── CMYK
-│   │   │           └── Pantone
 │   │   ├── Vertical
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
-│   │   │   │   │   └── Images
 │   │   │   │   ├── Inverse
-│   │   │   │   │   └── Images
 │   │   │   │   ├── One color
-│   │   │   │   │   └── Images
 │   │   │   │   └── White
-│   │   │   │       └── Images
 │   │   │   └── Print
 │   │   │       ├── Full Color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── Inverse
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       ├── One color
-│   │   │       │   ├── CMYK
-│   │   │       │   └── Pantone
 │   │   │       └── White
-│   │   │           ├── CMYK
-│   │   │           └── Pantone
 │   │   └── Wordmark
 │   │       ├── Digital
 │   │       │   ├── Full Color
-│   │       │   │   └── Images
 │   │       │   ├── Inverse
-│   │       │   │   └── Images
 │   │       │   ├── One color
-│   │       │   │   └── Images
 │   │       │   └── White
-│   │       │       └── Images
 │   │       └── Print
 │   │           ├── Full Color
-│   │           │   ├── CMYK
-│   │           │   └── Pantone
 │   │           ├── Inverse
-│   │           │   ├── CMYK
-│   │           │   └── Pantone
 │   │           ├── One color
-│   │           │   ├── CMYK
-│   │           │   └── Pantone
 │   │           └── White
-│   │               ├── CMYK
-│   │               └── Pantone
 │   ├── Packaging
 │   ├── Products
 │   ├── Signage
