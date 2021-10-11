@@ -67,14 +67,14 @@ Client Name
 │   │           ├── Inverse
 │   │           ├── One color
 │   │           └── White
-│   ├── Packaging
-│   ├── Products
 │   ├── Signage
 │   ├── Templates
 │   └── Vehicles
 ├── Marketing
 │   ├── Collateral
 │   └── Email
+├── Packaging
+├── Products
 ├── Research
 ├── Social
 └── Website
