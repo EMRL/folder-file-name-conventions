@@ -13,7 +13,7 @@ Client Name
 ├── Archived
 ├── Branding
 │   ├── Archived
-│   ├── Collateral
+│   ├── Business System
 │   ├── Color Palette
 │   ├── Competitive Audit
 │   ├── Elements
@@ -78,6 +78,12 @@ Client Name
 ├── Research
 ├── Social
 └── Website
+    └── domain.com
+        ├── 01_Incoming 
+        ├── 02_Research
+        ├── 03_Wireframes
+        ├── 04_Designs
+        └── 05_Dev
 ```
 
 ## Brand asset file naming schemes
