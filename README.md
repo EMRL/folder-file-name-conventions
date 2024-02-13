@@ -101,13 +101,10 @@ Client Name
 
 ## General file naming notes
 
-**_** seperates new ideas in file name, **-** groups related ideas e.g. **CMYK-FullColor** would be correct since **FullColor** is a refinement of **CMYK** and not a completely new type of attribute.
-
-**Do not use spaces**
-
-**Do not use special characters**
-
-Avoid using non-alphanumeric characters in file names, such as: '*' ':' '' '/' '<' '>' '|' '"' '!' '?' '[' ']' ';' '=' '+' '&' '£' '$' '€' '%' or ','. These characters can cause problems with different operating systems.
+- **_** (underscore) seperates new ideas in file name, **-** (hyphen) groups related ideas e.g. **CMYK-FullColor** would be correct since **FullColor** is a refinement of **CMYK** and not a completely new type of attribute.
+- **Do not use spaces**
+- **Do not use special characters**
+- Avoid using non-alphanumeric characters in file names, such as: '*' ':' '' '/' '<' '>' '|' '"' '!' '?' '[' ']' ';' '=' '+' '&' '£' '$' '€' '%' or ','. These characters can cause problems with different operating systems.
 
 ## General folder naming notes
 
