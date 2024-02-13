@@ -27,18 +27,18 @@ Client Name
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
 │   │   │   │   ├── Inverse
-│   │   │   │   ├── One color
+│   │   │   │   ├── One Color
 │   │   │   │   └── White
 │   │   │   └── Print
 │   │   │       ├── Full Color
 │   │   │       ├── Inverse
-│   │   │       ├── One color
+│   │   │       ├── One Color
 │   │   │       └── White
 │   │   ├── Horizontal
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
 │   │   │   │   ├── Inverse
-│   │   │   │   ├── One color
+│   │   │   │   ├── One Color
 │   │   │   │   └── White
 │   │   │   └── Print
 │   │   │       ├── Full Color
@@ -49,23 +49,23 @@ Client Name
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
 │   │   │   │   ├── Inverse
-│   │   │   │   ├── One color
+│   │   │   │   ├── One Color
 │   │   │   │   └── White
 │   │   │   └── Print
 │   │   │       ├── Full Color
 │   │   │       ├── Inverse
-│   │   │       ├── One color
+│   │   │       ├── One Color
 │   │   │       └── White
 │   │   └── Wordmark
 │   │       ├── Digital
 │   │       │   ├── Full Color
 │   │       │   ├── Inverse
-│   │       │   ├── One color
+│   │       │   ├── One Color
 │   │       │   └── White
 │   │       └── Print
 │   │           ├── Full Color
 │   │           ├── Inverse
-│   │           ├── One color
+│   │           ├── One Color
 │   │           └── White
 │   ├── Signage
 │   ├── Templates
@@ -82,7 +82,7 @@ Client Name
         ├── 01_Incoming 
         ├── 02_Research
         ├── 03_Wireframes
-        ├── 04_Designs
+        ├── 04_Design Assets
         └── 05_Dev
 ```
 
@@ -97,10 +97,19 @@ Client Name
 ### Design file
 - Working file: `200904_Temple-CaseStudy_11x17.indd`
 - Production file: `200904_Temple-CaseStudy_11x17_PROD.indd`
-- Breakdown: `YYMMDD_Design-Name-Size_PROD.format`
+- Breakdown: `YYMMDD_Design-DocumentName_Size_PROD.format`
 
 ## General file naming notes
+
+**_** seperates new ideas in file name, **-** groups related ideas e.g. **CMYK-FullColor** would be correct since **FullColor** is a refinement of **CMYK** and not a completely new type of attribute.
+
+**Do not use spaces**
 
 **Do not use special characters**
 
 Avoid using non-alphanumeric characters in file names, such as: '*' ':' '' '/' '<' '>' '|' '"' '!' '?' '[' ']' ';' '=' '+' '&' '£' '$' '€' '%' or ','. These characters can cause problems with different operating systems.
+
+## General folder naming notes
+
+- Title case
+- Spaces are allowed
