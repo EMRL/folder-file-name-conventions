@@ -34,6 +34,7 @@ Client Name
 │   │   │       ├── Inverse
 │   │   │       ├── One Color
 │   │   │       └── White
+│   │   ├── Favicon
 │   │   ├── Horizontal
 │   │   │   ├── Digital
 │   │   │   │   ├── Full Color
